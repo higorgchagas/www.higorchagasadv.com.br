@@ -1,0 +1,33 @@
+{
+  "name": "www.higorchagasadv.com.br",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/higorgchagas/www.higorchagasadv.com.br.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/higorgchagas/www.higorchagasadv.com.br/issues"
+  },
+  "homepage": "https://github.com/higorgchagas/www.higorchagasadv.com.br#readme",
+  "description": "",
+  "devDependencies": {
+    "@types/express": "^5.0.2",
+    "@types/node": "^22.15.19",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "emailjs-com": "^3.2.0",
+    "express": "^5.1.0",
+    "nodemailer": "^7.0.3"
+  }
+}
